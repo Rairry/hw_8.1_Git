@@ -42,7 +42,7 @@
 13. Сделайте git push origin master.
 14 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-https://github.com/Rairry/repository_hw_git/commit/33b4f66767b3a034f867b0560b0e20c4948c3232
+https://github.com/Rairry/repository_hw_git/commit/b578d0deee0b370cfae33452e25b402b0f6b2ae9
 
 ---
 
@@ -57,7 +57,7 @@ https://github.com/Rairry/repository_hw_git/commit/33b4f66767b3a034f867b0560b0e2
 4. Сделайте коммит и пуш.
 5. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-https://github.com/Rairry/repository_hw_git/commit/90f142018da08c686ae55d2e4cc94ef53034f03c
+https://github.com/Rairry/repository_hw_git/commit/eb4cbb88dc6a200f4f2007c1237509715c68b05c
 
 ---
 
